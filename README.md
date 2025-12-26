@@ -4,6 +4,8 @@ Le but de ce TP est de construire le formulaire
 1.étapes réalisés :
 -Clonage du projet empty-symfony-project
 -Configuration de l'environnement 
+
+
 2.Travaux réalisés:
 -Création du Form Type:(Quantity/color)
 -Personnalisation des champs 
